@@ -1,0 +1,491 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "border",
+            "request": "launch",
+            "mainClass": "GUI.border",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "GUI.Calc",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Reg",
+            "request": "launch",
+            "mainClass": "GUI.Reg",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "thread.App",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "simpleCalc",
+            "request": "launch",
+            "mainClass": "GUI.simpleCalc",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "h",
+            "request": "launch",
+            "mainClass": "GUI.h",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "apLab",
+            "request": "launch",
+            "mainClass": "database.apLab",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "aplab",
+            "request": "launch",
+            "mainClass": "database.aplab",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "RMIClient",
+            "request": "launch",
+            "mainClass": "rmi.RMIClient",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "RMIServer",
+            "request": "launch",
+            "mainClass": "rmi.RMIServer",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "AddClient",
+            "request": "launch",
+            "mainClass": "network.AddClient",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "AddServer",
+            "request": "launch",
+            "mainClass": "network.AddServer",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "simpleClient",
+            "request": "launch",
+            "mainClass": "network.simpleClient",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "simpleServer",
+            "request": "launch",
+            "mainClass": "network.simpleServer",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "HotelManagement",
+            "request": "launch",
+            "mainClass": "HotelManagement",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Read",
+            "request": "launch",
+            "mainClass": "database.Read",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Signup",
+            "request": "launch",
+            "mainClass": "database.Signup",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "database.test",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "hotelmanagement.Signup",
+            "classPaths": [
+                "C:\\Program Files\\sqljdbc_12.10\\enu\\jars\\mssql-jdbc-12.10.0.jre11.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Box",
+            "request": "launch",
+            "mainClass": "Box",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "CollectionsEx",
+            "request": "launch",
+            "mainClass": "CollectionsEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeStatic",
+            "request": "launch",
+            "mainClass": "EmployeeStatic",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "FileExample",
+            "request": "launch",
+            "mainClass": "FileExample",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "FileInputStreamExample",
+            "request": "launch",
+            "mainClass": "FileInputStreamExample",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "FileOutputStreamExample",
+            "request": "launch",
+            "mainClass": "FileOutputStreamExample",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "FileUpdateExample",
+            "request": "launch",
+            "mainClass": "FileUpdateExample",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Foo",
+            "request": "launch",
+            "mainClass": "Foo",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "HelloName",
+            "request": "launch",
+            "mainClass": "HelloName",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Officer",
+            "request": "launch",
+            "mainClass": "Officer",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "TestLocal",
+            "request": "launch",
+            "mainClass": "TestLocal",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "TwoSort",
+            "request": "launch",
+            "mainClass": "TwoSort",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "add100",
+            "request": "launch",
+            "mainClass": "add100",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "aplab",
+            "request": "launch",
+            "mainClass": "aplab",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "arrayListEx",
+            "request": "launch",
+            "mainClass": "arrayListEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "DequeEx",
+            "request": "launch",
+            "mainClass": "collection.DequeEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "ListEx",
+            "request": "launch",
+            "mainClass": "collection.ListEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "NavigableSetEx",
+            "request": "launch",
+            "mainClass": "collection.NavigableSetEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "QueueEx",
+            "request": "launch",
+            "mainClass": "collection.QueueEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "SortedSetEx",
+            "request": "launch",
+            "mainClass": "collection.SortedSetEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "collectionEx",
+            "request": "launch",
+            "mainClass": "collection.collectionEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "lamda",
+            "request": "launch",
+            "mainClass": "collection.lamda",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "setEx",
+            "request": "launch",
+            "mainClass": "collection.setEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "comment",
+            "request": "launch",
+            "mainClass": "comment",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "counter",
+            "request": "launch",
+            "mainClass": "counter",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "Conn",
+            "request": "launch",
+            "mainClass": "database.Conn",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "AbstractDemo",
+            "request": "launch",
+            "mainClass": "inheritance.AbstractDemo",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "MOL",
+            "request": "launch",
+            "mainClass": "inheritance.MOL",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "TestDog",
+            "request": "launch",
+            "mainClass": "inheritance.TestDog",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "QuotientWithException",
+            "request": "launch",
+            "mainClass": "inheritance.polymorphism.QuotientWithException",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "adddd",
+            "request": "launch",
+            "mainClass": "inheritance.polymorphism.adddd",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "listtest",
+            "request": "launch",
+            "mainClass": "listtest",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "math",
+            "request": "launch",
+            "mainClass": "math",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "printfEx",
+            "request": "launch",
+            "mainClass": "printfEx",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "random",
+            "request": "launch",
+            "mainClass": "random",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "signs",
+            "request": "launch",
+            "mainClass": "signs",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "ssscanner",
+            "request": "launch",
+            "mainClass": "ssscanner",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "swtch",
+            "request": "launch",
+            "mainClass": "swtch",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JAVA_f412c5f7"
+        },
+        {
+            "type": "java",
+            "name": "varii",
+            "request": "launch",
+            "mainClass": "varii",
+            "projectName": "JAVA_f412c5f7"
+        }
+    ]
+}
